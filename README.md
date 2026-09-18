@@ -158,16 +158,6 @@ LIMIT 20;
 
 ---
 
-## 📁 Project Structure
-
-```text
-swiggy-sql-analysis/
-│
-├── swiggy.sql
-└── README.md
-```
-
----
 
 ## 🔍 Key SQL Skills Demonstrated
 
@@ -184,35 +174,6 @@ This project demonstrates practical use of SQL for data analysis, including:
 
 ---
 
-## 💡 Business Questions Answered
-
-The analysis uses SQL to answer questions such as:
-
-> Which cities have the most restaurants?
-
-> Which cuisines are most commonly represented?
-
-> Which restaurant names have the most branches?
-
-> Which cities have the highest average restaurant ratings?
-
-> Which cities have the highest average cost for two?
-
-> Which cuisines have the highest average ratings among cuisines with more than 100 restaurants?
-
-> Which restaurants have ratings above 4.5 with more than 20 ratings?
-
----
-
-## 🚀 How to Use This Project
-
-1. Clone or download this repository.
-2. Import the Swiggy dataset into your SQL database.
-3. Create or use the `swiggy` table.
-4. Open `swiggy.sql`.
-5. Execute the queries individually to reproduce the analysis.
-
----
 
 ## 📌 Note
 
@@ -222,6 +183,6 @@ This repository contains SQL queries for exploratory analysis of the Swiggy rest
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mitang Thummar**
 
 If you found this project useful, feel free to ⭐ the repository.
