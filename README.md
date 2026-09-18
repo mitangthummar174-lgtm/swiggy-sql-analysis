@@ -6,6 +6,9 @@ This project analyzes **Swiggy restaurant data using SQL** to extract meaningful
 
 The project focuses on writing SQL queries to answer practical business and data-analysis questions using aggregation, filtering, grouping, sorting, and limiting techniques.
 
+Dataset:
+kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset
+
 ---
 
 ## 🎯 Project Objectives
