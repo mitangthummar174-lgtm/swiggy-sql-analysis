@@ -42,7 +42,7 @@ having total_restaurant>100
 order by avg_rating desc 
 limit 10;
 
--- 7. Restaurants with rating above 4.5 and more than 1000 ratings
+-- 7. Restaurants with rating above 4.5 and more than 20 ratings
 select name,city,rating,cuisine,rating_count from swiggy
 where rating>4.5 and rating_count>20
 order by rating desc
